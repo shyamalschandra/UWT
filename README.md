@@ -3,4 +3,4 @@ Universal Widget Toolkit - A toolkit that allows you to develop for GWT and SWT 
 
 ![13]
 
-[13]: UWT_logo.png
+[13]: UWT.png
